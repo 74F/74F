@@ -1,8 +1,7 @@
 ### Hi
-i am rookie level developer
 i'm 74F.
-also known as Stript
-I am planning to make hypixel stats bot. Thanks.
+Nice to meet you
+programs are coded in "JAVA" and "
 
 <!--
 **74F/74F** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
