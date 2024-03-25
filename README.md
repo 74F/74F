@@ -1,7 +1,7 @@
 ### Hi
 i'm 74F.
 Nice to meet you
-programs are coded in "JAVA"
+My programs are usually coded in "JAVA" But for some cases, some of them are not.
 
 <!--
 **74F/74F** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
