@@ -1,7 +1,7 @@
 ### Hi
-i'm 74F.
-Nice to meet you
-My programs are usually coded in "JAVA" But for some cases, some of them are not.
+I'm 74F.
+I develop things about minecraft and maplestory(kms)
+
 
 <!--
 **74F/74F** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
